@@ -1,0 +1,19 @@
+.odd-number {
+  background-color: #fdadad;
+  font-family: Verdana, "DejaVu Sans", Sans-Serif;
+}
+
+#first-div {
+  color: #2b3dd4;
+  font-size: 36px;
+}
+
+.odd-number.cooler-p {
+  font-size: 24px;
+}
+
+#second-div {
+  background-color: #57f561;
+  font-size: 24px;
+  font-weight: bold;
+}
